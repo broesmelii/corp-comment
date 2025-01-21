@@ -1,5 +1,3 @@
-import { TFeedbackItem } from "../lib/types";
-
 type HashtagProps = {
   selectedCompany: string;
   setSelectedCompany: React.Dispatch<React.SetStateAction<string>>;
